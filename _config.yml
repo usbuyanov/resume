@@ -41,6 +41,13 @@ author:
       started: 2007
       duration: (2007 - 2018)
       description: Designed, implemented, and supported Cloud, and Hybrid Cloud systems, including Office 365, Azure AD, Windows AD, G Suite, Amazon AWS, among others.Responsible for MySQL, MS SQL Server and PostgreSQL installations, monitoring, and support. Administered Red Hat Linux/CentOS systems.Maintained and administered Team Foundation Server (TFS) Performed system monitoring, upgrades, performance tuning, and backup and recovery.Installed and configured tuning Apache (Apache Tomcat), Nginx in a LAMP stack. Developed Amazon AWS Cloud Formation templates to create custom sized VPC, subnets, EC2 instances, ELB, Security Groups, load balancer. Deployed and monitored scalable infrastructure on Amazon Web Services (AWS) & configuration management using Ansible. Used AWS Beanstalk for deploying and scaling web applications and services developed with Java, PHP, Node.js, Python, Ruby, and Docker on familiar servers such as Apache, and IIS. Worked on Docker Hub, creating Docker images and handling multiple images primarily for middleware installations and domain configuration. Deployed and configured OpenStack components.Supported QA and Dev to develop standard platforms meeting requirements of consistent production.Maintained and administered GIT, SVN, Redmine -source code management tool and issue tracker. Used Nagios, Splunk tool for Monitoring. Automated routine work through Bash /Python scripts. Used Kubernetes (Amazon EKS) to deploy scale, load balance, and manage Docker containers with multiple namespace versions.
+    - work3:
+      company: Sibers
+      location: Novosibirsk, Russia
+      title: DevOps Engineer
+      started: 2007
+      duration: (2007 - 2018)
+      description: Designed, implemented, 
     educationHistory:
     - education1:
       organization: Novosibirsk University
