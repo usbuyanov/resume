@@ -36,12 +36,13 @@ author:
       description: Migrating on premise datacenter to Amazon AWS infrastructure. Implementing monitoring solutions Prometheus- Grafana to monitor health of systems VMware, AWS Amazon and generate proactive alerts in Slack channel for systems entering a degraded state. Managing infrastructure as code (IaC) via source control GIT and Ansible. Implementing Open Source solutions for best practice managing infrastructure
     - work2:
       company: Sibers
-      link: sibers.com
+      links: sibers.com
       location: Novosibirsk, Russia
       title: DevOps Engineer
-      started: 2007 2018
+      started: 2007
       duration: (2007 - 2018)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Designed, implemented, and supported Cloud, and Hybrid Cloud systems, including Office 365, Azure AD, Windows AD, G Suite, Amazon AWS, among others.Responsible for MySQL, MS SQL Server and PostgreSQL installations, monitoring, and support. Administered Red Hat Linux/CentOS systems.Maintained and administered Team Foundation Server (TFS) Performed system monitoring, upgrades, performance tuning, and backup and recovery.Installed and configured tuning Apache (Apache Tomcat), Nginx in a LAMP stack. Developed Amazon AWS Cloud Formation templates to create custom sized VPC, subnets, EC2 instances, ELB, Security Groups, load balancer. Deployed and monitored scalable infrastructure on Amazon Web Services (AWS) & configuration management using Ansible. Used AWS Beanstalk for deploying and scaling web applications and services developed with Java, PHP, Node.js, Python, Ruby, and Docker on familiar servers such as Apache, and IIS. Worked on Docker Hub, creating Docker images and handling multiple images primarily for middleware installations and domain configuration. Deployed and configured OpenStack components.Supported QA and Dev to develop standard platforms meeting requirements of consistent production.Maintained and administered GIT, SVN, Redmine -source code management tool and issue tracker. Used Nagios, Splunk tool for Monitoring. Automated routine work through Bash /Python scripts. Used Kubernetes (Amazon EKS) to deploy scale, load balance, and manage Docker containers with multiple namespace versions.
+
     - work3:
       company: XXX Ltd
       location: Shanghai, China
