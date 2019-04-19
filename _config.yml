@@ -26,6 +26,8 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
+  summary:
+    dfdgg
   workHistory:
     - work1:
       company: XXX Ltd
