@@ -26,15 +26,13 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
-  summary:
-    dfdgg
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
+      company: Digital Edge
+      location: Auckland, New York
+      title: System Engineer
+      started: 2019
+      duration: (March 2019  - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
       company: XXX Ltd
