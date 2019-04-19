@@ -28,7 +28,7 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Digital Edge
+      company: Digital Edge Ventures
       location: New York
       title: System Engineer
       started: 2019
@@ -36,7 +36,6 @@ author:
       description: Migrating on premise datacenter to Amazon AWS infrastructure. Implementing monitoring solutions Prometheus- Grafana to monitor health of systems VMware, AWS Amazon and generate proactive alerts in Slack channel for systems entering a degraded state. Managing infrastructure as code (IaC) via source control GIT and Ansible. Implementing Open Source solutions for best practice managing infrastructure
     - work2:
       company: Sibers
-      links: sibers.com
       location: Novosibirsk, Russia
       title: DevOps Engineer
       started: 2007
