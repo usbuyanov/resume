@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Sergey Buyanov CV
+#description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+#baseurl: https://ddbullfrog.github.io/resumecard
+#url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Sergey Buyanov
+  title: Devops/System enginner
+  address: Brooklyn, New york
+  email: usbuyanov#gmail.com
+#  link: http://ddbullfrog.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: usbuyanov
+  linkedin: sergeybuyanov
+#  twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -58,15 +58,12 @@ author:
       duration: (2005 - 2009)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
-    - language1:
-      name: Chinese
-      proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Russian
+      proficiency: Native
   programmingSkills:
     - skill1:
       name: HTML
