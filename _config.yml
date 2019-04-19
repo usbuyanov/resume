@@ -29,10 +29,10 @@ author:
   workHistory:
     - work1:
       company: Digital Edge
-      location: Auckland, New York
+      location: New York
       title: System Engineer
       started: 2019
-      duration: (March 2019  - Present)
+      duration: (February 2019  - Present)
       description: Migrating on premise datacenter to Amazon AWS infrastructure. Implementing monitoring solutions Prometheus- Grafana to monitor health of systems VMware, AWS Amazon and generate proactive alerts in Slack channel for systems entering a degraded state. Managing infrastructure as code (IaC) via source control GIT and Ansible. Implementing Open Source solutions for best practice managing infrastructure
     - work2:
       company: XXX Ltd
