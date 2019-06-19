@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Sergey Buyanov
-  title: Devops/System enginner
+  title: Devops/System engineer
   address: New york ,USA 
   email: usbuyanov#gmail.com
 #  link: http://ddbullfrog.com
@@ -30,7 +30,7 @@ author:
     - work1:
       company: Digital Edge Ventures
       location: New York
-      title: System Engineer
+      title: Devops/System engineer
       started: 2019
       duration: (February 2019  - Present)
       description: Migrating on premise datacenter to Amazon AWS infrastructure. Implementing monitoring solutions Prometheus- Grafana to monitor health of systems VMware, AWS Amazon and generate proactive alerts in Slack channel for systems entering a degraded state. Managing infrastructure as code (IaC) via source control GIT (Ansible, Terraform). Implementing Open Source solutions for best practice managing infrastructure
@@ -69,7 +69,7 @@ author:
       name: Linix
       percentage: 95%
     - skill4:
-      name: DevOps tool (GIT, Ansible, Docker, Grafana)
+      name: DevOps tool (GIT, Ansible,Terraform, Docker, Grafana)
       percentage: 90%
     - skill5:
       name: Windows Server (Active Direcrory, IIS)
