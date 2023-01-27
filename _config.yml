@@ -18,23 +18,27 @@ author:
   title: Devops engineer
   address: New york ,USA 
   email: usbuyanov#gmail.com
-#  link: http://ddbullfrog.com
   weibo:
   github: usbuyanov
   linkedin: sergeybuyanov
-#  twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
-#  stackoverflow: 4582127
   workHistory:
     - work1:
       company: Digital Edge Ventures
       location: New York
       title: Devops/System engineer
       started: 2019
-      duration: (February 2019  - Present)
-      description: Migrating on premise datacenter to Amazon AWS infrastructure. 
-                   Implementing monitoring solutions Prometheus- Grafana to monitor health of systems VMware, AWS Amazon and generate proactive alerts in Slack channel for systems entering a degraded state. Managing infrastructure as code (IaC) via source control GIT (Ansible, Terraform). Implementing Open Source solutions for best practice managing infrastructure
+      duration: (February 2019  - June 2020)
+      description:  •	Experience in working on AWS and its services like AWS IAM, VPC, EC2, ECS, EBS, RDS, S3, Lambda, ELB, Auto Scaling, Route 53, Cloud Front, Cloud Watch, Cloud Trail, Fargate, EKS.
+                      Designed and implemented a complex IaC Infrastructure from scratch on AWS: multi-tier, multi-subnet scalable cloud AWS infrastructure, Docker, platform-agnostic local environments with Docker and docker-compose.
+                   •	Designing and implementing build, deployment, and configuration management
+•	Building and testing automation tools for infrastructure provisioning on permice and AWS (Ansible, Terraform, Cloud formation)
+•	Monitoring metrics and develop ways to improve (Prometheus, Grafana, Inflixdb, telegraf)
+•	Managing CI and CD tools with a team (Teamcity, Jenkins)
+•	Wrote several Ansible playbooks for the automation that was defined through tasks using YAML format and run Ansible Scripts to provision Dev servers
+•	Designed the data models to be used in AWS Lambda applications (Python) which are aimed to do complex reduced cost in AWS infrastructure.
+
     - work2:
       company: Sibers
       location: Novosibirsk, Russia
