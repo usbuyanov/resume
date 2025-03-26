@@ -106,17 +106,17 @@ author:
     
   programmingSkills:
     - skill1:
-      name: Cloud: AWS|Azure|GCP
+      name: Cloud AWS|Azure|GCP
       percentage: 100%
     - skill2:
-      name: Containers: Docker|Kubernetes|Fargate|Helm|Microservices
+      name: Containers Docker|Kubernetes|Fargate|Helm|Microservices
       percentage: 100%
     - skill3:
-      name: Systems: Linux|Windows
+      name: Systems Linux|Windows
       percentage: 100%
     - skill4:
-      name: CI/CM: ArgoCD|FluxCD|Ansible|Jenkins|Terraform|Cloudformation|CodePipeline|CircleCi
+      name: CI/CM ArgoCD|FluxCD|Ansible|Jenkins|Terraform|Cloudformation|CodePipeline|CircleCi
       percentage: 100%
     - skill5:
-      name: Database: MySQL|MSSQL|DynamoDB|Postgress|MongoDB
+      name: Database MySQL|MSSQL|DynamoDB|Postgress|MongoDB
       percentage: 90%
