@@ -115,7 +115,7 @@ author:
       name: Systems Linux|Windows
       percentage: 100%
     - skill4:
-      name: CI/CM ArgoCD|FluxCD|Ansible|Jenkins|Terraform|Cloudformation|CodePipeline|CircleCi
+      name: CI/CM ArgoCD|Ansible|Jenkins|Terraform|CodePipeline|CircleCi
       percentage: 100%
     - skill5:
       name: Database MySQL|MSSQL|DynamoDB|Postgress|MongoDB
