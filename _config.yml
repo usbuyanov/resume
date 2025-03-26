@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Sergey Buyanov
-  title: Devops engineer
+  title: Sr Devops engineer
   address: New york ,USA 
   email: usbuyanov#gmail.com
   weibo:
@@ -30,14 +30,10 @@ author:
       title: Devops/System engineer
       started: 2019
       duration: (February 2019  - June 2020)
-      description:    Experience in working on AWS and its services like AWS IAM, VPC, EC2, ECS, EBS, RDS, S3, Lambda, ELB, Auto Scaling, Route 53, Cloud Front, Cloud Watch, Cloud Trail, Fargate, EKS.
-                      Designed and implemented a complex IaC Infrastructure from scratch on AWS: multi-tier, multi-subnet scalable cloud AWS infrastructure, Docker, platform-agnostic local environments with Docker and docker-compose.
-                      Designing and implementing build, deployment, and configuration management
-                      Building and testing automation tools for infrastructure provisioning on permice and AWS (Ansible, Terraform, Cloud formation)
-                      Monitoring metrics and develop ways to improve (Prometheus, Grafana, Inflixdb, telegraf)
-                      Managing CI and CD tools with a team (Teamcity, Jenkins)
-                      Wrote several Ansible playbooks for the automation that was defined through tasks using YAML format and run Ansible Scripts to provision Dev servers
-                      Designed the data models to be used in AWS Lambda applications (Python) which are aimed to do complex reduced cost in AWS infrastructure.
+      description:   Implemented Infrastructure as Code (IaC) with Terraform and Ansible on AWS, significantly cutting provisioning time in a mixed Windows and Linux environment within the finance sector. 
+                     Enhanced CI/CD pipelines with Jenkins and Docker, boosting deployment frequency from weekly to daily. 
+                     Crafted data models for serverless architectures, balancing performance with cost-effectiveness in AWS Lambda implementations. 
+                     Spearheaded SOC2 compliance initiatives, fortifying the organizational security posture. Fostered cross-functional teamwork, aligning DevOps practices with business objectives to drive technological advancement and operational excellence. 
 
     - work2:
       company: Sibers
@@ -59,10 +55,8 @@ author:
   languages:
     - language2:
       name: English
-      proficiency: Professional
-    - language3:
-      name: Russian
-      proficiency: Native
+      proficiency: Fluent
+    
   programmingSkills:
     - skill1:
       name: Amazon AWS
