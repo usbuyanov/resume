@@ -1,5 +1,5 @@
 # Site settings
-title: Sergey Buyanov CV
+title: Sergey Buyanov Resume
 #description: Sergey's CV
 favicon: /assets/img/avatar.JPG
 #baseurl: https://usbuyanov.github.io/resume
@@ -24,9 +24,41 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
   workHistory:
+    - work6:
+      company: Fast Retailing
+      location: New York, Hybryd
+      title: Sr Devops engineer
+      started: 2025
+      duration: (January 2024- Pesent) 
+      description:
+  
+    - work5:
+      company: FULLBEAUTY Brands
+      location: New York, Hybryd
+      title: Sr Devops engineer
+      started: 2024
+      duration: (January 2024- February 2025)
+      description: Collaboratively migrated and architected a legacy application to a serverless architecture using GitOps with AWS CodePipeline, Lambda, AWS ECS, API Gateway, RDS Aurora Serverless, Apache Airflow, and DynamoDB, reducing FinOps costs by 37% while enhancing scalability and operational efficiency. Partnered with ML teams to streamline data workflows and support model deployment pipelines.
+                   Developed automated solutions for replicating production and staging RDS PostgreSQL databases, reducing data sync time by 60% and ensuring high availability and consistency across environments.
+                   Automated security compliance checks using Terraform, Prowler, AWS ECS, Lambda, Cloud watch and Security HUB reducing manual audit efforts by 60% and improving cloud security posture through proactive communication with security team.
+                   Migrated from manual resource management to Infrastructure as Code (IaC) using Terraform, AWS CDK, and SAML, cutting deployment time by 70% and improving cross-team efficiency and consistency.
+                   Demonstrated exceptional problem-solving ability in resolving critical system issues in the capacity of a Senior DevOps Engineer
+                   Transited CI/CD deployment pipelines from CircleCI to AWS Code Pipeline
+  
+    - work4:
+      company: Aligntech
+      location: New York, Remote
+      title: Sr Devops engineer
+      started: 2021
+      duration: (March 2021- November 2023)
+      description:   Led the migration from Rancher to AWS EKS Kubernetes, leveraging Terraform, Helm, Argo CD, FluxCD and JFrog Artifactory, reducing deployment time by 60%. Integrated Splunk and SignalFX, improving system monitoring and cutting incident response time by 40%.
+                     Designed, application development and deployed scalable serverless applications on AWS using Python (Django), REST APIs, API Gateway, Step Functions, Kubernetes and Lambda, reducing operational costs by 50% while improving system performance.
+                     Experienced in using Ansible for automating infrastructure management and deployment. Proficient in writing Ruby-based Chef recipes and cookbooks to manage system configurations, package installations, and service management in both Windows and Linux (Ubuntu) environments.
+                     Developed a zero-trust security model for cloud environments, incorporating network segmentation, identity-based access controls, and automated compliance checks
+  
     - work3:
       company: Virtualhealth
-      location: New York
+      location: New York, Remote
       title: Devops engineer
       started: 2020
       duration: (June 2020 - March 2021)
@@ -36,7 +68,7 @@ author:
 
     - work2:
       company: Digital Edge Ventures
-      location: New York
+      location: New York, Onsite
       title: Devops engineer
       started: 2019
       duration: (February 2019  - June 2020)
@@ -60,12 +92,12 @@ author:
 
   educationHistory:
     - education1:
-      organization: Novosibirsk University
-      location: Novosibirsk, Russia
-      degree: Masters
+      organization: Novosibirsk State University
+      #location: Novosibirsk, Russia
+      degree: Bachelors
       major: Computer Science
-      started: 1989
-      duration: (1989 - 1995)
+      #started: 1989
+      #duration: (1989 - 1995)
       description:
   languages:
     - language2:
@@ -74,17 +106,17 @@ author:
     
   programmingSkills:
     - skill1:
-      name: Amazon AWS
+      name: Cloud: AWS|Azure|GCP
       percentage: 100%
     - skill2:
-      name: Microsoft Azure
-      percentage: 80%
+      name: Containers: Docker|Kubernetes|Fargate|Helm|Microservices
+      percentage: 100%
     - skill3:
-      name: Linix
-      percentage: 95%
+      name: Systems: Linux|Windows
+      percentage: 100%
     - skill4:
-      name: DevOps tool (GIT, Ansible,Terraform, Docker, Grafana)
-      percentage: 90%
+      name: CI/CM: ArgoCD|FluxCD|Ansible|Jenkins|Terraform|Cloudformation|CodePipeline|CircleCi
+      percentage: 100%
     - skill5:
-      name: Windows Server (Active Direcrory, IIS)
+      name: Database: MySQL|MSSQL|DynamoDB|Postgress|MongoDB
       percentage: 90%
