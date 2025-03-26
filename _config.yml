@@ -24,10 +24,20 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
   workHistory:
-    - work1:
+    - work3:
+      company: Virtualhealth
+      location: New York
+      title: Devops engineer
+      started: 2020
+      duration: (June 2020 - March 2021)
+      description: Integrated Terraform modules with Ansible, enhancing deployment speed by 40% and system efficiency. Automated via Jenkins multi-stage pipelines for a SaaS application.
+                   Established a secure CI/CD pipeline for deploying Datadog monitor resources using Terraform modules, collaborating closely with developers to reinforce a resilient platform engineering framework. This initiative streamlined monitoring workflows and reduced critical alerts by over 70%, enhancing system reliability and operational efficiency.
+                   Guide a migration from monolithic to microservices architecture, improving system scalability and fault isolation while reducing deployment risks. 
+
+    - work2:
       company: Digital Edge Ventures
       location: New York
-      title: Devops/System engineer
+      title: Devops engineer
       started: 2019
       duration: (February 2019  - June 2020)
       description:   Implemented Infrastructure as Code (IaC) with Terraform and Ansible on AWS, significantly cutting provisioning time in a mixed Windows and Linux environment within the finance sector. 
@@ -35,13 +45,18 @@ author:
                      Crafted data models for serverless architectures, balancing performance with cost-effectiveness in AWS Lambda implementations. 
                      Spearheaded SOC2 compliance initiatives, fortifying the organizational security posture. Fostered cross-functional teamwork, aligning DevOps practices with business objectives to drive technological advancement and operational excellence. 
 
-    - work2:
+    - work1:
       company: Sibers
       location: Novosibirsk, Russia
       title: DevOps Engineer
       started: 2007
-      duration: (2007 - 2018)
-      description: Designed, implemented, and supported Cloud, and Hybrid Cloud systems, including Office 365, Azure AD, Windows AD, G Suite, Amazon AWS, among others.Responsible for MySQL, MS SQL Server and PostgreSQL installations, monitoring, and support. Administered Red Hat Linux/CentOS systems.Maintained and administered Team Foundation Server (TFS) Performed system monitoring, upgrades, performance tuning, and backup and recovery.Installed and configured tuning Apache (Apache Tomcat), Nginx in a LAMP stack. Developed Amazon AWS Cloud Formation templates to create custom sized VPC, subnets, EC2 instances, ELB, Security Groups, load balancer. Deployed and monitored scalable infrastructure on Amazon Web Services (AWS) & configuration management using Ansible. Used AWS Beanstalk for deploying and scaling web applications and services developed with Java, PHP, Node.js, Python, Ruby, and Docker on familiar servers such as Apache, and IIS. Worked on Docker Hub, creating Docker images and handling multiple images primarily for middleware installations and domain configuration. Deployed and configured OpenStack components.Supported QA and Dev to develop standard platforms meeting requirements of consistent production.Maintained and administered GIT, SVN, Redmine -source code management tool and issue tracker. Used Nagios, Splunk tool for Monitoring. Automated routine work through Bash /Python scripts. Used Kubernetes (Amazon EKS) to deploy scale, load balance, and manage Docker containers with multiple namespace versions.
+      duration: (April 2007 - January 2019)
+      description:   LAMP stack performance, improving server efficiency and reducing response times through fine-tuned configurations and proactive monitoring. 
+                     Spearheaded the deployment of scalable and cost-effective cloud infrastructure on AWS and Azure, showcasing expertise in cloud architecture and implementation. 
+                     Automated CI/CD pipelines using Jenkins with Git webhooks and Poll SCM, streamlining workflows and reducing deployment time. 
+                     Designed and managed virtualization environments using Proxmox VE, deploying and maintaining highly available clusters for production workloads.
+                     Administered source code management systems (GIT and SVN) and issue tracking tools (Redmine), ensuring smooth collaboration across cross-functional teams. 
+                     Developed and implemented custom Bash and Python scripts to automate routine tasks, significantly improving team productivity and reducing manual workload.
 
   educationHistory:
     - education1:
